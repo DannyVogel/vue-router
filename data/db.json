@@ -1,0 +1,7 @@
+{
+    "jobs": [
+        { "title": "Ninja", "id": 1, "details": "You will be a ninja" },
+        { "title": "Samurai", "id": 2, "details": "You will be a samurai" },
+        { "title": "Ronin", "id": 3, "details": "You will be a ronin" }
+    ]
+}
